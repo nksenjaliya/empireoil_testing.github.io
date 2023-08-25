@@ -1223,7 +1223,7 @@ img{
 }
 
 .main-slider h2{
-	font-size:60px;
+	font-size:55px;
 	color:#ffffff;
 	font-weight:500;
 	line-height:1.1em;
@@ -6946,3 +6946,7 @@ table {
   /* tr:nth-child(even) {
 	background-color: #dddddd;
   } */
+
+  .main-footer .logo-widget .logo img{
+	width: 60%;
+  }
