@@ -6950,3 +6950,13 @@ table {
   .main-footer .logo-widget .logo img{
 	width: 60%;
   }
+
+  .img-item {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #ddd;
+    margin: 0 20px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}

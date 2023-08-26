@@ -644,11 +644,11 @@
 		left:0px;
 		top:59px !important;
 	}
-	
+/* 	
 	.main-header .header-upper .upper-right,
 	.header-style-two .logo-outer{
 		padding-bottom:20px;
-	}
+	} */
 	
 	.header-style-two .outer-box{
 		margin-left:0px;
@@ -857,6 +857,14 @@
 		display:block;
 		width:100%;
 		text-align:center;
+	}
+
+	.main-header .header-top{
+		display: none;
+	}
+
+	.main-header .logo-outer .logo img{
+		max-width: 50%;
 	}
 	
 }
